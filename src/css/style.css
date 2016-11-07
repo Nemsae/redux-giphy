@@ -1,0 +1,15 @@
+img.searchImage {
+  box-shadow: 0 0 1px black,
+              0 0 2px black,
+              0 0 3px black,
+              0 0 4px black,
+              0 0 5px black,
+              0 0 7px black,
+              0 0 8px black,
+              0 0 10px black;
+  border-radius: 10px;
+}
+
+div.searchImageContainer {
+  padding: 15px;
+}
